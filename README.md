@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Frontend Mentor](https://your-solution-url.com) -->
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-Hh_NE9BO3L)
 - Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-social-proof-section/)
 
 ## My process
