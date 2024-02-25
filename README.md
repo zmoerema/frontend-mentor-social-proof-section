@@ -22,12 +22,18 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./screenshots/screenshot.png)
+#### Desktop view
+
+![screenshot-desktop](./screenshots/screenshot-desktop.png)
+
+#### Mobile view
+
+![screenshot-mobile](./screenshots/screenshot-mobile.png)
 
 ### Links
 
 <!-- - Solution URL: [Frontend Mentor](https://your-solution-url.com) -->
-- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-social-proof-section)
+- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-social-proof-section/)
 
 ## My process
 
@@ -35,7 +41,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-<!-- - Flexbox -->
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 
 ## Author
 
